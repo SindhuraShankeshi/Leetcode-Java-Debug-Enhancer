@@ -11,7 +11,6 @@ A toolkit and demonstration project to make debugging and understanding LeetCode
 - [Usage](#usage)
 - [Project structure (expected)](#project-structure-expected)
 - [How to contribute](#how-to-contribute)
-- [License](#license)
 - [Author / Contact](#author--contact)
 
 ## What it is
